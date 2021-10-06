@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.exe
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.deps.json
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.dll
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\bin\Debug\netcoreapp3.1\DevBuildLab6.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.dll
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.6\DevBuildLab6\DevBuildLab6\obj\Debug\netcoreapp3.1\DevBuildLab6.genruntimeconfig.cache
